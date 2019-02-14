@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+#展示这段代码是因为比较擅长python，并且可以展示自己的machine learning能力
 
 from __future__ import division
 from collections import defaultdict
